@@ -93,13 +93,13 @@
         <Component class="javax.swing.JButton" name="Potencia">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\potencia.png"/>
+              <Image iconType="3" name="/Calculadora/potencia.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\potencia.png"/>
+              <Image iconType="3" name="/Calculadora/potencia.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\potencia_1.png"/>
+              <Image iconType="3" name="/Calculadora/potencia_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -114,13 +114,13 @@
         <Component class="javax.swing.JButton" name="Divicion">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Divicion.png"/>
+              <Image iconType="3" name="/Calculadora/Divicion.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Divicion.png"/>
+              <Image iconType="3" name="/Calculadora/Divicion.png"/>
             </Property>
             <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Divicion_1.png"/>
+              <Image iconType="3" name="/Calculadora/Divicion_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -135,13 +135,13 @@
         <Component class="javax.swing.JButton" name="Procentaje">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\%.png"/>
+              <Image iconType="3" name="/Calculadora/%.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\%.png"/>
+              <Image iconType="3" name="/Calculadora/%.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\%_1.png"/>
+              <Image iconType="3" name="/Calculadora/%_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -156,13 +156,13 @@
         <Component class="javax.swing.JButton" name="Multiplicacion">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Multiplicacion.png"/>
+              <Image iconType="3" name="/Calculadora/Multiplicacion.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Multiplicacion.png"/>
+              <Image iconType="3" name="/Calculadora/Multiplicacion.png"/>
             </Property>
             <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Multiplicacion_1.png"/>
+              <Image iconType="3" name="/Calculadora/Multiplicacion_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -177,13 +177,13 @@
         <Component class="javax.swing.JButton" name="Num_0">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\0.png"/>
+              <Image iconType="3" name="/Calculadora/0.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\0.png"/>
+              <Image iconType="3" name="/Calculadora/0.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\0_0.png"/>
+              <Image iconType="3" name="/Calculadora/0_0.png"/>
             </Property>
           </Properties>
           <Events>
@@ -198,13 +198,13 @@
         <Component class="javax.swing.JButton" name="Punto_Decimal">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\punto.png"/>
+              <Image iconType="3" name="/Calculadora/punto.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\punto.png"/>
+              <Image iconType="3" name="/Calculadora/punto.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\punto_!.png"/>
+              <Image iconType="3" name="/Calculadora/punto_!.png"/>
             </Property>
           </Properties>
           <Events>
@@ -219,13 +219,13 @@
         <Component class="javax.swing.JButton" name="Igual">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\igual.png"/>
+              <Image iconType="3" name="/Calculadora/igual.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\igual.png"/>
+              <Image iconType="3" name="/Calculadora/igual.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\igual_1.png"/>
+              <Image iconType="3" name="/Calculadora/igual_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -240,13 +240,13 @@
         <Component class="javax.swing.JButton" name="Suma">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Suma.png"/>
+              <Image iconType="3" name="/Calculadora/Suma.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Suma.png"/>
+              <Image iconType="3" name="/Calculadora/Suma.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\Suma_1.png"/>
+              <Image iconType="3" name="/Calculadora/Suma_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -261,16 +261,16 @@
         <Component class="javax.swing.JButton" name="Resta">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\menos.png"/>
+              <Image iconType="3" name="/Calculadora/menos.png"/>
             </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="null"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\menos.png"/>
+              <Image iconType="3" name="/Calculadora/menos.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\resta_!.png"/>
+              <Image iconType="3" name="/Calculadora/resta_!.png"/>
             </Property>
           </Properties>
           <Events>
@@ -285,13 +285,13 @@
         <Component class="javax.swing.JButton" name="Num_3">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\3.png"/>
+              <Image iconType="3" name="/Calculadora/3.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\3.png"/>
+              <Image iconType="3" name="/Calculadora/3.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\3_1.png"/>
+              <Image iconType="3" name="/Calculadora/3_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -306,13 +306,13 @@
         <Component class="javax.swing.JButton" name="Num_6">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\6.png"/>
+              <Image iconType="3" name="/Calculadora/6.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\6.png"/>
+              <Image iconType="3" name="/Calculadora/6.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\6_!.png"/>
+              <Image iconType="3" name="/Calculadora/6_!.png"/>
             </Property>
           </Properties>
           <Events>
@@ -327,13 +327,13 @@
         <Component class="javax.swing.JButton" name="Num_9">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\9.png"/>
+              <Image iconType="3" name="/Calculadora/9.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\9.png"/>
+              <Image iconType="3" name="/Calculadora/9.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\9_1.png"/>
+              <Image iconType="3" name="/Calculadora/9_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -348,13 +348,13 @@
         <Component class="javax.swing.JButton" name="Num_2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\2.png"/>
+              <Image iconType="3" name="/Calculadora/2.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\2.png"/>
+              <Image iconType="3" name="/Calculadora/2.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\2_1.png"/>
+              <Image iconType="3" name="/Calculadora/2_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -369,13 +369,13 @@
         <Component class="javax.swing.JButton" name="Num_5">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\5.png"/>
+              <Image iconType="3" name="/Calculadora/5.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\5.png"/>
+              <Image iconType="3" name="/Calculadora/5.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\5_1.png"/>
+              <Image iconType="3" name="/Calculadora/5_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -390,13 +390,13 @@
         <Component class="javax.swing.JButton" name="Num_8">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\8.png"/>
+              <Image iconType="3" name="/Calculadora/8.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\8.png"/>
+              <Image iconType="3" name="/Calculadora/8.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\8_!.png"/>
+              <Image iconType="3" name="/Calculadora/8_!.png"/>
             </Property>
           </Properties>
           <Events>
@@ -411,13 +411,13 @@
         <Component class="javax.swing.JButton" name="Num_4">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\4.png"/>
+              <Image iconType="3" name="/Calculadora/4.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\4.png"/>
+              <Image iconType="3" name="/Calculadora/4.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\4_!.png"/>
+              <Image iconType="3" name="/Calculadora/4_!.png"/>
             </Property>
           </Properties>
           <Events>
@@ -432,13 +432,13 @@
         <Component class="javax.swing.JButton" name="Num_7">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\7.png"/>
+              <Image iconType="3" name="/Calculadora/7.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\7.png"/>
+              <Image iconType="3" name="/Calculadora/7.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\7_1.png"/>
+              <Image iconType="3" name="/Calculadora/7_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -453,16 +453,16 @@
         <Component class="javax.swing.JButton" name="Num_1">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\1.png"/>
+              <Image iconType="3" name="/Calculadora/1.png"/>
             </Property>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\1.png"/>
+              <Image iconType="3" name="/Calculadora/1.png"/>
             </Property>
             <Property name="rolloverSelectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
               <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\1.png"/>
             </Property>
             <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\1)_1.png"/>
+              <Image iconType="3" name="/Calculadora/1)_1.png"/>
             </Property>
           </Properties>
           <Events>
@@ -484,10 +484,10 @@
             </Property>
             <Property name="horizontalTextPosition" type="int" value="0"/>
             <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\AC.png"/>
+              <Image iconType="3" name="/Calculadora/AC.png"/>
             </Property>
             <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\angel\Desktop\Monkey_Calculadora\Imagenes\AC_1.png"/>
+              <Image iconType="3" name="/Calculadora/AC_1_1.png"/>
             </Property>
           </Properties>
           <Events>

@@ -81,9 +81,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         Casilla.setOpaque(true);
         Fuente.add(Casilla, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 60, 310, 120));
 
-        Potencia.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\potencia.png")); // NOI18N
-        Potencia.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\potencia.png")); // NOI18N
-        Potencia.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\potencia_1.png")); // NOI18N
+        Potencia.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/potencia.png"))); // NOI18N
+        Potencia.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/potencia.png"))); // NOI18N
+        Potencia.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/potencia_1.png"))); // NOI18N
         Potencia.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 PotenciaActionPerformed(evt);
@@ -91,9 +91,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Potencia, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 190, 70, 70));
 
-        Divicion.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Divicion.png")); // NOI18N
-        Divicion.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Divicion.png")); // NOI18N
-        Divicion.setRolloverIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Divicion_1.png")); // NOI18N
+        Divicion.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Divicion.png"))); // NOI18N
+        Divicion.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Divicion.png"))); // NOI18N
+        Divicion.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Divicion_1.png"))); // NOI18N
         Divicion.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 DivicionActionPerformed(evt);
@@ -101,9 +101,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Divicion, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 190, 70, 70));
 
-        Procentaje.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\%.png")); // NOI18N
-        Procentaje.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\%.png")); // NOI18N
-        Procentaje.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\%_1.png")); // NOI18N
+        Procentaje.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/%.png"))); // NOI18N
+        Procentaje.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/%.png"))); // NOI18N
+        Procentaje.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/%_1.png"))); // NOI18N
         Procentaje.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 ProcentajeActionPerformed(evt);
@@ -111,9 +111,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Procentaje, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 270, 70, 70));
 
-        Multiplicacion.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Multiplicacion.png")); // NOI18N
-        Multiplicacion.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Multiplicacion.png")); // NOI18N
-        Multiplicacion.setRolloverIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Multiplicacion_1.png")); // NOI18N
+        Multiplicacion.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Multiplicacion.png"))); // NOI18N
+        Multiplicacion.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Multiplicacion.png"))); // NOI18N
+        Multiplicacion.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Multiplicacion_1.png"))); // NOI18N
         Multiplicacion.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 MultiplicacionActionPerformed(evt);
@@ -121,9 +121,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Multiplicacion, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 190, 70, 70));
 
-        Num_0.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\0.png")); // NOI18N
-        Num_0.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\0.png")); // NOI18N
-        Num_0.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\0_0.png")); // NOI18N
+        Num_0.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/0.png"))); // NOI18N
+        Num_0.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/0.png"))); // NOI18N
+        Num_0.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/0_0.png"))); // NOI18N
         Num_0.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_0ActionPerformed(evt);
@@ -131,9 +131,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_0, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 510, 70, 70));
 
-        Punto_Decimal.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\punto.png")); // NOI18N
-        Punto_Decimal.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\punto.png")); // NOI18N
-        Punto_Decimal.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\punto_!.png")); // NOI18N
+        Punto_Decimal.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/punto.png"))); // NOI18N
+        Punto_Decimal.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/punto.png"))); // NOI18N
+        Punto_Decimal.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/punto_!.png"))); // NOI18N
         Punto_Decimal.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Punto_DecimalActionPerformed(evt);
@@ -141,9 +141,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Punto_Decimal, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 510, 70, 70));
 
-        Igual.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\igual.png")); // NOI18N
-        Igual.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\igual.png")); // NOI18N
-        Igual.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\igual_1.png")); // NOI18N
+        Igual.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/igual.png"))); // NOI18N
+        Igual.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/igual.png"))); // NOI18N
+        Igual.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/igual_1.png"))); // NOI18N
         Igual.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 IgualActionPerformed(evt);
@@ -151,9 +151,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Igual, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 510, 150, 70));
 
-        Suma.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Suma.png")); // NOI18N
-        Suma.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Suma.png")); // NOI18N
-        Suma.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\Suma_1.png")); // NOI18N
+        Suma.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Suma.png"))); // NOI18N
+        Suma.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Suma.png"))); // NOI18N
+        Suma.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/Suma_1.png"))); // NOI18N
         Suma.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 SumaActionPerformed(evt);
@@ -161,10 +161,10 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Suma, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 430, 70, 70));
 
-        Resta.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\menos.png")); // NOI18N
+        Resta.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/menos.png"))); // NOI18N
         Resta.setBorder(null);
-        Resta.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\menos.png")); // NOI18N
-        Resta.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\resta_!.png")); // NOI18N
+        Resta.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/menos.png"))); // NOI18N
+        Resta.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/resta_!.png"))); // NOI18N
         Resta.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 RestaActionPerformed(evt);
@@ -172,9 +172,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Resta, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 350, 70, 70));
 
-        Num_3.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\3.png")); // NOI18N
-        Num_3.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\3.png")); // NOI18N
-        Num_3.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\3_1.png")); // NOI18N
+        Num_3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/3.png"))); // NOI18N
+        Num_3.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/3.png"))); // NOI18N
+        Num_3.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/3_1.png"))); // NOI18N
         Num_3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_3ActionPerformed(evt);
@@ -182,9 +182,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_3, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 430, 70, 70));
 
-        Num_6.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\6.png")); // NOI18N
-        Num_6.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\6.png")); // NOI18N
-        Num_6.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\6_!.png")); // NOI18N
+        Num_6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/6.png"))); // NOI18N
+        Num_6.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/6.png"))); // NOI18N
+        Num_6.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/6_!.png"))); // NOI18N
         Num_6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_6ActionPerformed(evt);
@@ -192,9 +192,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_6, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 350, 70, 70));
 
-        Num_9.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\9.png")); // NOI18N
-        Num_9.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\9.png")); // NOI18N
-        Num_9.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\9_1.png")); // NOI18N
+        Num_9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/9.png"))); // NOI18N
+        Num_9.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/9.png"))); // NOI18N
+        Num_9.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/9_1.png"))); // NOI18N
         Num_9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_9ActionPerformed(evt);
@@ -202,9 +202,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_9, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 270, 70, 70));
 
-        Num_2.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\2.png")); // NOI18N
-        Num_2.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\2.png")); // NOI18N
-        Num_2.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\2_1.png")); // NOI18N
+        Num_2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/2.png"))); // NOI18N
+        Num_2.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/2.png"))); // NOI18N
+        Num_2.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/2_1.png"))); // NOI18N
         Num_2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_2ActionPerformed(evt);
@@ -212,9 +212,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_2, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 430, 70, 70));
 
-        Num_5.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\5.png")); // NOI18N
-        Num_5.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\5.png")); // NOI18N
-        Num_5.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\5_1.png")); // NOI18N
+        Num_5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/5.png"))); // NOI18N
+        Num_5.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/5.png"))); // NOI18N
+        Num_5.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/5_1.png"))); // NOI18N
         Num_5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_5ActionPerformed(evt);
@@ -222,9 +222,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_5, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 350, 70, 70));
 
-        Num_8.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\8.png")); // NOI18N
-        Num_8.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\8.png")); // NOI18N
-        Num_8.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\8_!.png")); // NOI18N
+        Num_8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/8.png"))); // NOI18N
+        Num_8.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/8.png"))); // NOI18N
+        Num_8.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/8_!.png"))); // NOI18N
         Num_8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_8ActionPerformed(evt);
@@ -232,9 +232,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_8, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 270, 70, 70));
 
-        Num_4.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\4.png")); // NOI18N
-        Num_4.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\4.png")); // NOI18N
-        Num_4.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\4_!.png")); // NOI18N
+        Num_4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/4.png"))); // NOI18N
+        Num_4.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/4.png"))); // NOI18N
+        Num_4.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/4_!.png"))); // NOI18N
         Num_4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_4ActionPerformed(evt);
@@ -242,9 +242,9 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_4, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 350, 70, 70));
 
-        Num_7.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\7.png")); // NOI18N
-        Num_7.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\7.png")); // NOI18N
-        Num_7.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\7_1.png")); // NOI18N
+        Num_7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/7.png"))); // NOI18N
+        Num_7.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/7.png"))); // NOI18N
+        Num_7.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/7_1.png"))); // NOI18N
         Num_7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_7ActionPerformed(evt);
@@ -252,10 +252,10 @@ public class Calculador_Principal extends javax.swing.JFrame {
         });
         Fuente.add(Num_7, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 270, 70, 70));
 
-        Num_1.setIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\1.png")); // NOI18N
-        Num_1.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\1.png")); // NOI18N
+        Num_1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/1.png"))); // NOI18N
+        Num_1.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/1.png"))); // NOI18N
         Num_1.setRolloverSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\1.png")); // NOI18N
-        Num_1.setSelectedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\1)_1.png")); // NOI18N
+        Num_1.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/1)_1.png"))); // NOI18N
         Num_1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Num_1ActionPerformed(evt);
@@ -266,8 +266,8 @@ public class Calculador_Principal extends javax.swing.JFrame {
         AC.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/AC.png"))); // NOI18N
         AC.setBorder(null);
         AC.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        AC.setPressedIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\AC.png")); // NOI18N
-        AC.setRolloverIcon(new javax.swing.ImageIcon("C:\\Users\\angel\\Desktop\\Monkey_Calculadora\\Imagenes\\AC_1.png")); // NOI18N
+        AC.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/AC.png"))); // NOI18N
+        AC.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Calculadora/AC_1_1.png"))); // NOI18N
         AC.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 ACActionPerformed(evt);
